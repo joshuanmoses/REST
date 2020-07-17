@@ -6,7 +6,7 @@
 #
 
 # Global Variables
-dapURL=dap-master.cyber-ark-demo.local
+dapURL=dap-master.myorg.local
 
 # Prompt user for Conjur/DAP User
 read -p "Enter DAP User: " dap_user
